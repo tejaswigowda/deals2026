@@ -1,0 +1,15 @@
+{
+  "title": "Alicia's Deals",
+  "description": "Live Life Better For Less!",
+  "author": "Alicia Markham",
+  "domain": "https://tejaswigowda.github.io/deals2026",
+  "repo": "tejaswigowda/deals2026",
+  "theme": "default",
+  "content": {
+    "base": "https://raw.githubusercontent.com/{owner}/{repo}/{ref}/{path}"
+  },
+  "search": true,
+  "pagination": {
+    "size": 20
+  }
+}
