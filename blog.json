@@ -4,7 +4,15 @@
   "author": "Alicia Markham",
   "domain": "https://tejaswigowda.github.io/deals2026",
   "repo": "tejaswigowda/deals2026",
-  "theme": "default",
+  "theme": {
+    "repo": "tejaswigowda/blog-webCLI-themes/terminal",
+    "ref": "v1.0.0",
+    "sha256": "67f30fc36b794c05ee2fe51dc1ad145931288fe578a0a57de4a3a5bfa199be6f",
+    "name": "Terminal",
+    "version": "1.0.0",
+    "licence": "MIT",
+    "contract": "blog-webcli-v1"
+  },
   "content": {
     "base": "https://raw.githubusercontent.com/{owner}/{repo}/{ref}/{path}"
   },
