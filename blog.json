@@ -20,5 +20,19 @@
   "pagination": {
     "size": 20
   },
-  "stylesheet": "linked"
+  "stylesheet": "linked",
+  "customize": {
+    "colors": {
+      "accent": "#159e63",
+      "text": "#212529",
+      "background": "#fafaf9",
+      "muted": "#787a7c"
+    },
+    "font": "sans",
+    "width": "600px",
+    "fontSize": "18px",
+    "list": {
+      "layout": "list"
+    }
+  }
 }
