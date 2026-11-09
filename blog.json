@@ -19,5 +19,6 @@
   "search": true,
   "pagination": {
     "size": 20
-  }
+  },
+  "stylesheet": "linked"
 }
